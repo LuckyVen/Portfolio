@@ -1,0 +1,171 @@
+/*--ABOUT CONTENT--*/
+/*--ABOUT CONTENT--*/
+.Destails {
+    margin-top: 20px;
+    cursor: pointer;
+    text-align: left;
+}
+.first-text {
+    background-color: #ffffff0f;
+    padding: 25px; 
+    margin-top: 30px; 
+    border-radius: 10px; 
+    border: 2px solid #6d6d6d;
+    display: flex;
+}
+.about-text {
+    line-height: 25px;
+    text-align: justify;
+    color: #ecececb8;
+}
+/*--ACHIEVEMENTS CONTENT--*/
+/*--ACHIEVEMENTS CONTENT--*/
+.search-nav {
+    margin-top: 60px;
+    width: 50%;
+}
+.search-input {
+    width: 100%;
+    padding: 10px 40px 10px 10px;
+    border-radius: 20px;
+    color: white;
+}
+.search-input {
+    width: 100%;
+    padding: 10px 40px 10px 10px;
+    border: 2px solid #585858;
+    border-radius: 8px;
+    background-color: #232323;
+}
+.search-nav .search-icon {
+    position: absolute;
+    right: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    pointer-events: none;
+}
+.search-nav {
+    position: relative;
+    width: 250px;
+}
+
+/*Achievements*/
+.grid-container {
+    margin-bottom: 30px;
+}
+.details_achievements {
+    margin-top: 10px;
+    padding: 8px;
+}
+.Achievement {
+    border-radius: 10px;
+    padding: 5px;
+    margin-left: 10px;
+    background-color: #52525252;
+    margin-bottom: 40px;
+}
+.certificates_achievements {
+    border-radius: 10px;
+}
+/*--PROJECTS CONTENT--*/
+/*--PROJECTS CONTENT--*/
+.details {
+    margin-top: 10px;
+    padding: 20px;
+}
+.Achievements {
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #ffffff15;
+    margin-bottom: 40px;
+}
+.certificates {
+    border-radius: 11px 11px 0 0;
+}
+/*--GRAPHICS CONTENT--*/
+/*--GRAPHICS CONTENT--*/
+.graphics:hover {
+    cursor: pointer;
+    transition: 0.15s;
+    opacity: 0.7;
+}
+/*--DASHBOARD CONTENT--*/
+/*--DASHBOARD CONTENT--*/
+table, tr, th, td {
+    border: 1px solid rgb(255, 255, 255);
+    border-collapse: collapse;
+    padding: 12px;
+    text-align: center;
+    font-size: 13px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+td {
+    color: #a8a8a8;
+}
+th {
+    color: #a8a8a8;
+}
+/*--CONTACT CONTENT--*/
+/*--CONTACT CONTENT--*/
+.X-banner {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.592), rgba(0, 0, 0, 0.592)), url('Banners/X-Banner.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 13px;
+}
+.facebook {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.592), rgba(0, 0, 0, 0.592)), url('Banners/Facebook-Banner.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 13px;
+    width: 500px;
+}
+.TikTok {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.592), rgba(0, 0, 0, 0.592)), url('Banners/TikTok-Banner.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 13px;
+    width: 500px; 
+    margin-left: 20px;
+}
+.Instagram {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.592), rgba(0, 0, 0, 0.592)), url('Banners/Instagram-Banner.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 13px;
+    width: 500px;
+}
+.LinkedIn {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.592), rgba(0, 0, 0, 0.592)), url('Banners/Linkedin-Banner.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 13px;
+    width: 500px; 
+    margin-left: 20px;
+}

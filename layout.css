@@ -1,0 +1,146 @@
+/*--CONTAINER--*/
+/*--CONTAINER--*/
+body{
+    background-color: #232323;
+    margin: 0;
+    overflow: hidden;
+}
+.container {
+    display: flex;
+}
+.first-section-container {
+    padding: 30px;
+    width: 276px;
+    height: 100vh;
+}
+/*--HEADER--*/
+/*--HEADER--*/
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.style {
+    font-family: arial;
+    color: white;
+    line-height: 22px;
+}
+.University {
+    font-size: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.Campus {
+    font-size: 13px;
+    color: gray;
+}
+.Photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    margin-bottom: 20px;
+}
+.switch {
+    background-color: #ffffff;
+    color: rgb(32, 32, 32);
+    border: 1px solid gray;
+    padding: 5px;
+    padding-left: 23px;
+    padding-right: 23px;
+    border-radius: 20px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-family: arial;
+    font-weight:600;
+}
+.nav-settings {
+    border: none;
+    background-color: #232323;
+    vertical-align: middle;
+}
+/*--CONTENT--*/
+/*--CONTENT--*/
+.content {
+    color: white;
+    margin-left: 20px;
+    padding: 30px;
+    width: 100%;
+    height: 100vh;
+    overflow: scroll;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1b1b1b;
+}
+/*MY PROFESIONALS SKILLS*/
+.prof-skills-container {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.profesional-skills-button {
+    padding: 5px;
+    border-radius: 30px;
+    border: none;
+    color: white;
+    background-color: rgba(86, 86, 86, 0.955);
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+    margin-left: 15px;
+}
+
+/* MOVING ANIMATION TO THE LEFT */
+
+
+  /*SERVICE-CONTAINER*/
+  .service-container {
+    margin-bottom: 60px;
+  }
+/*--NAVIGATIONS--*/
+/*--NAVIGATIONS--*/
+  .nav-link {
+    margin-top: 1px;
+    padding: 8px;
+    border-radius: 5px;
+}
+.nav-button {
+    border: none;
+    background-color: #232323;
+    width: 288px;
+    text-align: left; 
+    margin-left: -6px;
+}
+/*--HOVER--*/
+/*--HOVER--*/
+.nav-link:hover {
+    background-color: #ffffff15;
+    transition: 0.15s;
+    cursor: pointer;
+}
+.nav-link:active {
+    opacity: 0.5;
+    transition: 0.15s;
+}
+.nav-contact-me:active {
+    opacity: 0.5;
+}
+.nav-settings {
+    border: none;
+    background-color: #232323;
+    vertical-align: middle;
+    margin-left: 30px;
+}
+.nav-start-rate {
+    border: none;
+    background-color: #232323;
+    vertical-align: middle;
+    margin-left: 0;
+}
+.option:active {
+    opacity: 0.5;
+    transition: 0.15s;
+}
+/*--FOOTER--*/
+/*--FOOTER--*/
+.footer-text {
+    color: white;
+    font-family: arial;
+    font-size: 10px;
+}
